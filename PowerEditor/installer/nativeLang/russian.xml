@@ -7,15 +7,15 @@
                 <Entries>
                     <Item menuId="file" name="&amp;Файл"/>
                     <Item menuId="edit" name="&amp;Правка"/>
-                    <Item menuId="search" name="По&amp;иск"/>
+                    <Item menuId="search" name="&amp;Поиск"/>
                     <Item menuId="view" name="&amp;Вид"/>
                     <Item menuId="encoding" name="&amp;Кодировки"/>
                     <Item menuId="language" name="&amp;Синтаксисы"/>
                     <Item menuId="settings" name="&amp;Опции"/>
                     <Item menuId="macro" name="&amp;Макросы"/>
                     <Item menuId="run" name="&amp;Запуск"/>
-                    <Item idName="Plugins" name="Плаги&amp;ны"/>
-                    <Item idName="Window"  name="Окн&amp;а"/>
+                    <Item idName="Plugins" name="&amp;Плагины"/>
+                    <Item idName="Window"  name="&amp;Окна"/>
                 </Entries>
                 <!-- Sub Menu Entries -->
                 <SubEntries>
